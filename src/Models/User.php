@@ -78,6 +78,13 @@ class User extends Entry implements Authenticatable
     }
 
     /**
+     * @return string|void
+     */
+    public function getAuthPasswordName()
+    {
+    }
+
+    /**
      * Get the token value for the "remember me" session.
      *
      * @return string
