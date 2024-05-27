@@ -4,7 +4,7 @@
     "description": "A PHP LDAP Package for humans.",
     "keywords": [
         "active directory",
-        "directory",
+        "directory"
     ],
     "license": "MIT",
     "support": {
