@@ -1,15 +1,10 @@
 {
-    "name": "adldap2/adldap2",
+    "name": "klongchu/adldap2",
     "type": "library",
     "description": "A PHP LDAP Package for humans.",
     "keywords": [
         "active directory",
         "directory",
-        "ad",
-        "ldap",
-        "windows",
-        "adldap",
-        "adldap2"
     ],
     "license": "MIT",
     "support": {
