@@ -77,6 +77,11 @@ class User extends Entry implements Authenticatable
     {
     }
 
+    public function getAuthPasswordName()
+    {
+        return 'password';
+    }
+
     /**
      * Get the token value for the "remember me" session.
      *
